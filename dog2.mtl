@@ -6,5 +6,5 @@ Ns 10.000
 d 1.0
 Tr 0.0
 illum 2
-map_Ka mm_frame.png
-map_Kd mm_frame.png
+map_Ka dog2.png
+map_Kd dog2.png
